@@ -1,0 +1,145 @@
+Number of players (3 to 11)? Random-number seed? Current scores:
+    3 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    3 -- Katherine Johnson
+    0 -- pot
+Ada Lovelace's turn:
+    Rolls R
+        Gives a chip to Katherine Johnson
+    Rolls .
+    Rolls .
+Current scores:
+    2 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    4 -- Katherine Johnson
+    0 -- pot
+Margaret Hamilton's turn:
+    Rolls .
+    Rolls .
+    Rolls .
+Current scores:
+    2 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    4 -- Katherine Johnson
+    0 -- pot
+Katherine Johnson's turn:
+    Rolls L
+        Gives a chip to Ada Lovelace
+    Rolls .
+    Rolls L
+        Gives a chip to Ada Lovelace
+Current scores:
+    4 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    2 -- Katherine Johnson
+    0 -- pot
+Ada Lovelace's turn:
+    Rolls .
+    Rolls L
+        Gives a chip to Margaret Hamilton
+    Rolls C
+        Puts a chip in the pot
+Current scores:
+    2 -- Ada Lovelace
+    4 -- Margaret Hamilton
+    2 -- Katherine Johnson
+    1 -- pot
+Margaret Hamilton's turn:
+    Rolls .
+    Rolls .
+    Rolls L
+        Gives a chip to Katherine Johnson
+Current scores:
+    2 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    3 -- Katherine Johnson
+    1 -- pot
+Katherine Johnson's turn:
+    Rolls .
+    Rolls .
+    Rolls .
+Current scores:
+    2 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    3 -- Katherine Johnson
+    1 -- pot
+Ada Lovelace's turn:
+    Rolls .
+    Rolls .
+Current scores:
+    2 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    3 -- Katherine Johnson
+    1 -- pot
+Margaret Hamilton's turn:
+    Rolls R
+        Gives a chip to Ada Lovelace
+    Rolls .
+    Rolls .
+Current scores:
+    3 -- Ada Lovelace
+    2 -- Margaret Hamilton
+    3 -- Katherine Johnson
+    1 -- pot
+Katherine Johnson's turn:
+    Rolls .
+    Rolls .
+    Rolls C
+        Puts a chip in the pot
+Current scores:
+    3 -- Ada Lovelace
+    2 -- Margaret Hamilton
+    2 -- Katherine Johnson
+    2 -- pot
+Ada Lovelace's turn:
+    Rolls .
+    Rolls C
+        Puts a chip in the pot
+    Rolls L
+        Gives a chip to Margaret Hamilton
+Current scores:
+    1 -- Ada Lovelace
+    3 -- Margaret Hamilton
+    2 -- Katherine Johnson
+    3 -- pot
+Margaret Hamilton's turn:
+    Rolls C
+        Puts a chip in the pot
+    Rolls R
+        Gives a chip to Ada Lovelace
+    Rolls C
+        Puts a chip in the pot
+Current scores:
+    2 -- Ada Lovelace
+    0 -- Margaret Hamilton
+    2 -- Katherine Johnson
+    5 -- pot
+Katherine Johnson's turn:
+    Rolls L
+        Gives a chip to Ada Lovelace
+    Rolls .
+Current scores:
+    3 -- Ada Lovelace
+    0 -- Margaret Hamilton
+    1 -- Katherine Johnson
+    5 -- pot
+Ada Lovelace's turn:
+    Rolls .
+    Rolls .
+    Rolls .
+Current scores:
+    3 -- Ada Lovelace
+    0 -- Margaret Hamilton
+    1 -- Katherine Johnson
+    5 -- pot
+Margaret Hamilton has no chips, skipping turn
+Katherine Johnson's turn:
+    Rolls C
+        Puts a chip in the pot
+Current scores:
+    3 -- Ada Lovelace
+    0 -- Margaret Hamilton
+    0 -- Katherine Johnson
+    6 -- pot
+Now only one player has chips
+Ada Lovelace won!
